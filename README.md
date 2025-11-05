@@ -48,7 +48,7 @@ You can clone the repository:
 git clone https://github.com/ashar0800/metalogos.git
 cd metalogos
 pip install .
-
+````
 
 ## ✨ Example
 
